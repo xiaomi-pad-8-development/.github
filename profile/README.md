@@ -14,4 +14,4 @@ This organization contains all the important repositories required to build cust
 ### Device kernel repositories
 * [**Kernel source**](https://github.com/xiaomi-pad-8-development/android_kernel_xiaomi_yupei) (`android_kernel_xiaomi_yupei`)
 
-Maintained and lead by @sidharthify
+Developed and lead by [**sidharthify**](https://github.com/sidharthify)
